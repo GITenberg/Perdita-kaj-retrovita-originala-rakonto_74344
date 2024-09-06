@@ -1,0 +1,27 @@
+_repo: Perdita-kaj-retrovita-originala-rakonto_74344
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Boirac, Émile
+    gutenberg_agent_id: '57456'
+    url: http://www.gutenberg.org/2009/agents/57456
+description: ''
+gutenberg_issued: '2024-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74344'
+language: eo
+pgterms:marc904: https://digital.onb.ac.at/RepViewer/viewer.faces?doc=DTL_3738890&order=1&view=SINGLE#
+pgterms:marc905: 20240625060334boirac
+pgterms:marc906: '1904'
+pgterms:marc907: FR
+production_note: Richard Illner and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images made available by The Austrian National Library)
+publication_note: '  $aParis :$bPresa Esperantista Societo, $c1904.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Perdita kaj retrovita: originala rakonto'
+url: http://www.gutenberg.org/ebooks/74344
